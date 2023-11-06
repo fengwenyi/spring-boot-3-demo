@@ -1,7 +1,7 @@
 // 编译脚本
 buildscript {
     ext {
-        springBootVersion = "3.0.5"
+        springBootVersion = "3.1.5"
     }
 
     // 仓库配置
